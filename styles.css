@@ -1,0 +1,21 @@
+body {
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("sol.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300px;
+}
+
+.sol {
+    width: 200px;
+    height: 200px;
+    background-image: url("sol.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 50px auto;
+}
